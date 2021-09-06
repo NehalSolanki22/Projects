@@ -168,11 +168,7 @@ drop column
   OwnerAddress, 
   PropertyAddress, 
   TaxDistrict
-
-
-alter table NashvilleHousing
-drop column SaleDate
-
+  SaleDate
 
 
 --(7) Renaming Column Name
